@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estoque", "Estoque\Estoque.csproj", "{F352CE80-D6E4-47F7-B3B3-44765137E417}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador_Estoque", "Instalador_Estoque\Instalador_Estoque.vdproj", "{12FD3D57-5609-4148-9C51-65EB41B7D071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F352CE80-D6E4-47F7-B3B3-44765137E417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F352CE80-D6E4-47F7-B3B3-44765137E417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F352CE80-D6E4-47F7-B3B3-44765137E417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F352CE80-D6E4-47F7-B3B3-44765137E417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FD3D57-5609-4148-9C51-65EB41B7D071}.Debug|Any CPU.ActiveCfg = Debug
+		{12FD3D57-5609-4148-9C51-65EB41B7D071}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37DD7AD2-0E60-4373-8424-4523FE808105}
+	EndGlobalSection
+EndGlobal
