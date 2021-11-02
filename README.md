@@ -23,7 +23,7 @@ Após finalizar o preenchimento de todos os campos e clicar no botão 'conectar'
 
 </a><img src = "https://i.imgur.com/mcMsdbK.png" alt="Janela de Conexão."></a>
 
-Este arquivo contém o usuário, senha e nome do Banco para realizar a conexão com o MYSQL. A senha foi criptograda utilizando uma chave publica e uma secreta.
+Este arquivo contém o usuário, senha e nome do Banco para realizar a conexão com o MYSQL. A senha foi criptografada utilizando uma chave publica e uma secreta.
 
 Quando o arquivo é gerado na pasta destino, todas as outras execuções do Programa, vão abrir diretamente na tela de Login.
 
