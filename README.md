@@ -13,7 +13,7 @@ Após realizar a instalação, um atalho para a execução do programa será cri
 
 ******
 
-## Janela de conexão com Banco de Dados
+## Janela de Conexão com Banco de Dados
 
 </a><img src = "https://i.imgur.com/q0L7rTg.png" alt="Janela de Conexão."></a>
 
